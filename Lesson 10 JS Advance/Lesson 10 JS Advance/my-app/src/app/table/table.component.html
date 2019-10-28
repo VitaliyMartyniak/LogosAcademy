@@ -1,0 +1,27 @@
+<table class="table table-striped">
+  <thead>
+  <tr>
+    <th scope="col">#</th>
+    <th scope="col">Country</th>
+    <th scope="col">Checked</th>
+    <th scope="col">Status</th>
+    <th scope="col">Area</th>
+    <th scope="col">Population</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let country of countries; let i = index">
+    <th scope="row">{{ i + 1 }}</th>
+    <td>
+      <img [src]="'https://upload.wikimedia.org/wikipedia/commons/' + country.flag" class="mr-2" style="width: 20px">
+      {{ country.name }}
+    </td>
+    <td><input type="checkbox" #input [checked]="country.checked" (click)="changeCheckboxValue(country)"></td>
+    <td>{{country.status}}</td>
+    <td>{{ country.area | number }}</td>
+    <td>{{ country.population | number }}</td>
+    <td><button (click)="edit(country, i)">Edit</button></td>
+    <td><button (click)="delete(i)">Delete</button></td>
+  </tr>
+  </tbody>
+</table>

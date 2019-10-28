@@ -1,0 +1,8 @@
+<app-input-bar [text]="'Add'" (pushValue)="afterPush($event)"></app-input-bar>
+
+<app-table (emitValueToEdit)="edit($event)"
+           [editCountry]="valueAfterEdit"
+           [newCountry]="valueAfterPush">
+</app-table>
+
+<app-input-bar [editValue]="propToEdit" [text]="'Save'" (emitValue)="afterEdit($event)"></app-input-bar>

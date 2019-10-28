@@ -1,0 +1,12 @@
+<div class="bg-light">
+  <div class="container">
+    <h1>Plan your day!</h1>
+    <h2>User: Ivan Ivanov. Count of Task {{taskCount}}</h2>
+    <hr>
+    <app-add-element (newTask)="onAddNewTask($event)"></app-add-element>
+    <app-table [newTask]="newTask" (displayEditButton)="editButton($event)" (editTask)="onEditTask($event)" (taskCount)="setTaskCount($event)"></app-table>
+    <app-edit-element [editTask]="editTask" *ngIf="displayEditButton" (editButtonState)="editButtonStateFalse($event)"></app-edit-element>
+  </div>
+</div>
+
+

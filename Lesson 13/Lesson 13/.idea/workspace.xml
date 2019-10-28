@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1de084c8-ea74-4ec3-b38e-3da5765335e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pipe-lesson/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/pipe-lesson/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipe-lesson/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/pipe-lesson/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipe-lesson/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/pipe-lesson/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipe-lesson/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/pipe-lesson/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipe-lesson/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/pipe-lesson/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipe-lesson/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pipe-lesson/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipe-lesson/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/pipe-lesson/tsconfig.app.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pipe-lesson" />
+  </component>
+  <component name="ProjectId" id="1SQZPVMH8JgcDdqSGvKYcPB52Pj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\WebStorm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1de084c8-ea74-4ec3-b38e-3da5765335e8" name="Default Changelist" comment="" />
+      <created>1569262511450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569262511450</updated>
+      <workItem from="1569262519308" duration="634000" />
+      <workItem from="1569354419754" duration="9000" />
+      <workItem from="1571497757554" duration="1712000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
